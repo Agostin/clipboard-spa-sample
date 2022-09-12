@@ -109,7 +109,7 @@ const App = () => {
         <div className="relative flex flex-col space-y-8 md:space-y-0 md:flex-row md:space-x-8">
           <div className="md:w-1/2">
             <img
-              className="mx-auto max-w-sm md:-left-24 md:absolute md:top-0 md:bottom-0 md:max-w-lg"
+              className="mx-auto w-full max-w-sm md:-left-24 md:absolute md:top-0 md:bottom-0 md:max-w-lg"
               src={imageComputer}
               alt=""
             />
